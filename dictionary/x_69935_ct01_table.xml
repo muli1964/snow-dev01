@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="CT01 Table" max_length="40" name="x_69935_ct01_table" sizeclass="3" type="collection"/>
+</database>

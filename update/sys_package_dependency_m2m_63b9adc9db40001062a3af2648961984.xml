@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">e9c855b47420330078509adcc48c8787</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>caprobst</sys_created_by>
+        <sys_created_on>2019-09-20 21:14:23</sys_created_on>
+        <sys_id>63b9adc9db40001062a3af2648961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="CT01" source="x_69935_ct01">cbb92dc9db40001062a3af2648961973</sys_package>
+        <sys_updated_by>caprobst</sys_updated_by>
+        <sys_updated_on>2019-09-20 21:14:23</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

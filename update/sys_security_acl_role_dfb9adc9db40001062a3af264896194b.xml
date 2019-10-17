@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>caprobst</sys_created_by>
+        <sys_created_on>2019-09-20 21:14:22</sys_created_on>
+        <sys_id>dfb9adc9db40001062a3af264896194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_69935_ct01_table.x_69935_ct01.user</sys_name>
+        <sys_package display_value="CT01" source="x_69935_ct01">cbb92dc9db40001062a3af2648961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CT01">cbb92dc9db40001062a3af2648961973</sys_scope>
+        <sys_security_acl display_value="x_69935_ct01_table">5bb9adc9db40001062a3af264896193c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dfb9adc9db40001062a3af264896194b</sys_update_name>
+        <sys_updated_by>caprobst</sys_updated_by>
+        <sys_updated_on>2019-09-20 21:14:22</sys_updated_on>
+        <sys_user_role display_value="x_69935_ct01.user" name="x_69935_ct01.user">93b9adc9db40001062a3af2648961911</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
