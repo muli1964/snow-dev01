@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <link_element/>
+        <name>SAP FA Antivirus</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>This is only the template Short Description</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>caprobst</sys_created_by>
+        <sys_created_on>2019-10-31 18:31:28</sys_created_on>
+        <sys_id>fd6dc096db30001062a3af264896190e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SAP FA Antivirus</sys_name>
+        <sys_package display_value="CT01" source="x_69935_ct01">cbb92dc9db40001062a3af2648961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CT01">cbb92dc9db40001062a3af2648961973</sys_scope>
+        <sys_update_name>sys_template_fd6dc096db30001062a3af264896190e</sys_update_name>
+        <sys_updated_by>caprobst</sys_updated_by>
+        <sys_updated_on>2019-10-31 18:32:31</sys_updated_on>
+        <table>incident</table>
+        <template>business_service=26e426be0a0a0bb40046890d90059eaa^caller_id=46d44a23a9fe19810012d100cca80666^category=inquiry^impact=3^knowledge=false^short_description=SAP FM Test Templates CAP 201910311430^state=1^subcategory=antivirus^urgency=3^assignment_group=d625dccec0a8016700a222a0f7900d06^EQ</template>
+        <user display_value="Christian A. Probst">9abd5b12db42330062a3af2648961969</user>
+        <view/>
+    </sys_template>
+</record_update>
